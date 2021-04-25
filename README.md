@@ -1,7 +1,7 @@
 # Pardon A Pet
 
 
-# Description 
+Description 
 An animal freedom network for setting your old or unwanted pets free, safely, and in the perfect place...
 
 
