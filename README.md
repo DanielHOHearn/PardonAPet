@@ -1,5 +1,5 @@
-# The Pet Freedom Network
-##The Animal Freedom Network 
+
+# The Animal Freedom Network 
 
 Description:
 A network for setting your old or unwanted pets (of Kingdom Animalia) free, safely, and in the perfect place...
