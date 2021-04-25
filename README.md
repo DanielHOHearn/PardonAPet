@@ -33,7 +33,7 @@ Daniel H. O'Hearn -- Founder
 
 
 Looking for a web-development position with this business project?  
-Send resumé to Email: 
+Send resumé to: danielhohearn@mail.com
 
 
 
