@@ -10,7 +10,7 @@ An animal freedom network for setting your old or unwanted pets free, safely, an
 * Liberator -- after paying an upfront cost to support the business, may start a fund to release their animal or animals, the price of travel is calculated by the workers at Pardon A Pet.  The Liberator can gain funds from any member once their pet post is approved. Liberators can also attend certification courses to take part in specific actions to help pets.  
 
 
-## TypesOfCertificationsAvailable
+## Types of Certifications Available
 * Ecological review specialist -- accepts assignments in order to approval to release certain species back into the wild 
   within a specific nature reserve by the request of the Pet Freedom Advocate
 * Pet Chauffeur -- drive pets to their new approved homes in nature 
