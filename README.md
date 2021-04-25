@@ -1,8 +1,9 @@
-# Pardon A Pet
-
+# The Pet Freedom Network
+##The Animal Freedom Network 
 
 Description:
-An animal freedom network for setting your old or unwanted pets free, safely, and in the perfect place...
+A network for setting your old or unwanted pets (of Kingdom Animalia) free, safely, and in the perfect place...
+
 
 
 ## Memberships Available
@@ -24,10 +25,15 @@ Policies
 2. All destinations as part of any agreement must recieve approval by appropriate and authoritive adminstrators of the nature reserve(s) involved.
 
 
+Business status: pre-development phase 
 
 
+Team 
+Daniel H. O'Hearn -- Founder 
 
 
+Looking for a web-development position with this business project?  
+Send resumé to Email: 
 
 
 
