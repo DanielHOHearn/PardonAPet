@@ -19,7 +19,9 @@ An animal freedom network for setting your old or unwanted pets free, safely, an
 * Pet Freedom Advocate -- accepts assignments in order to mandate pet traveling arrangements - safe traveling conditions is a priority, next to proper placement in   a nature reserve approved.
 
 
-
+Policies
+1. All transportation arrangements must be 100% eco-friendly; ship vessels and cars must be powered 100% by renewable resources.  
+2. All destinations as part of any agreement must recieve approval by appropriate and authoritive adminstrators of the nature reserve(s) involved.
 
 
 
