@@ -28,7 +28,7 @@ Policies
 Business status: pre-development phase 
 
 
-# Team 
+## Team 
 Daniel H. O'Hearn -- Founder 
 
 
